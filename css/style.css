@@ -25,3 +25,8 @@ p {
   font-size: 1.5rem;
   padding-top: 5pt;
 }
+
+img {
+  float: right;
+  height: 200px;
+}
